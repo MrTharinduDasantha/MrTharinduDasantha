@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharindu Dasantha</h1>
+<h2 align="center">Hi 👋, I'm Tharindu Dasantha</h2>
 
 <h3 align="left">Tools and Technologies I am Currently Learning</h3>
 
