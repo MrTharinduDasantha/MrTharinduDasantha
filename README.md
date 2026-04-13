@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tharindu Dasantha
 
-**Cloud Computing Degree & Software Engineering Deploma**
+**Cloud Computing Degree & Software Engineering Diploma**
 
 Welcome to my GitHub! I am a passionate and detail-oriented Full Stack Developer who loves building complete, error-free applications from scratch. Over the past year and a half, I have dedicated myself to open-source and personal development, sharing more than 25 full-stack projects to GitHub.
 
